@@ -1,0 +1,1423 @@
+{
+  "resourceType": "ValueSet",
+  "id": "eimpf-impfstoffe",
+  "url": "https://termgit.elga.gv.at/ValueSet-eimpf-impfstoffe",
+  "identifier": [
+    {
+      "use": "official",
+      "system": "urn:ietf:rfc:3986",
+      "value": "urn:oid:1.2.40.0.34.6.0.10.14"
+    }
+  ],
+  "version": "202205",
+  "name": "eimpf-impfstoffe",
+  "title": "eImpf_Impfstoffe",
+  "status": "active",
+  "date": "2022-05-30",
+  "compose": {
+    "include": [
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "concept": [
+          {
+            "code": "4977140",
+            "display": "ENCEPUR FSPR 0,5ML +ND"
+          },
+          {
+            "code": "2472795",
+            "display": "PROQUAD PLV+LSM FSPR +2K"
+          },
+          {
+            "code": "1265597",
+            "display": "INFLUVAC FSPR 0,5ML O.KANUEL"
+          },
+          {
+            "code": "4966403",
+            "display": "FLUCELVAX TETRA FSPR 0,5ML"
+          },
+          {
+            "code": "2470017",
+            "display": "STAMARIL PLV+LSM DFL+FSPR+2K"
+          },
+          {
+            "code": "1350268",
+            "display": "HBVAXPRO IJSUS FLA 40MCG"
+          },
+          {
+            "code": "2427180",
+            "display": "FSME-IMMUN FSPR 0,25ML NAD F"
+          },
+          {
+            "code": "4990123",
+            "display": "FLUAD TETRA FSPR+ND 0,5ML"
+          },
+          {
+            "code": "2467765",
+            "display": "HBVAXPRO IJSUS FSP  5MCG 2KN"
+          },
+          {
+            "code": "3927186",
+            "display": "FLUARIX INJ.SUS FSPR O.NADEL"
+          },
+          {
+            "code": "1276939",
+            "display": "ACT-HIB TRSTAMP +LSM"
+          },
+          {
+            "code": "3762986",
+            "display": "PRIORIX TETRA PLV DFL FSPR"
+          },
+          {
+            "code": "4989918",
+            "display": "EFLUELDA FSPR O.KAN.0,7ML"
+          },
+          {
+            "code": "2427872",
+            "display": "ENCEPUR FSPR 0,25ML KIND"
+          },
+          {
+            "code": "4202462",
+            "display": "PNEUMOVAX 23 DFL 0,5ML"
+          },
+          {
+            "code": "4977134",
+            "display": "ENCEPUR FSPR 0,25ML KIND +ND"
+          },
+          {
+            "code": "2427197",
+            "display": "FSME-IMMUN FSPR 0,25ML NAD F"
+          },
+          {
+            "code": "4985398",
+            "display": "SHINGRIX PLV+SUSP IJSUS DFL"
+          },
+          {
+            "code": "1260571",
+            "display": "POLIO SALK MER FSPR 0,5ML"
+          },
+          {
+            "code": "1315496",
+            "display": "HAVRIX FSPR  720 JUNIOR"
+          },
+          {
+            "code": "2228374",
+            "display": "TD PUR ERW FSPR 0,5ML"
+          },
+          {
+            "code": "3533837",
+            "display": "SYNFLORIX FSPR 0,5ML"
+          },
+          {
+            "code": "1333991",
+            "display": "TYPHERIX IJLSG 25MCG/0,5ML"
+          },
+          {
+            "code": "0515738",
+            "display": "FSME-IMMUN FSPR 0,5ML NAD F"
+          },
+          {
+            "code": "AWEG_000003",
+            "display": "INFLUSPLIT TETRA 1ST"
+          },
+          {
+            "code": "1329251",
+            "display": "VIVOTIF KPS"
+          },
+          {
+            "code": "AWEG_000002",
+            "display": "QUADRIVALENT INFLUENZA SANOFI 1ST"
+          },
+          {
+            "code": "AWEG_000001",
+            "display": "FLUZONE/EFLUELDA 10St"
+          },
+          {
+            "code": "1304498",
+            "display": "TWINRIX ERW INJ FSPR 1ML"
+          },
+          {
+            "code": "4205785",
+            "display": "FLUARIX TETRA FSPR +2ND"
+          },
+          {
+            "code": "5611903",
+            "display": "NUVAXOVID COV19\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a01x10"
+          },
+          {
+            "code": "1258120",
+            "display": "INFLUVAC FSPR 0,5ML"
+          },
+          {
+            "code": "3528434",
+            "display": "FLUVACCINOL INJ-SUS FSPR"
+          },
+          {
+            "code": "4467841",
+            "display": "VAXIGRIP TETRA FSPR 0,5ML"
+          },
+          {
+            "code": "3782291",
+            "display": "MENVEO PLV+LSM DFL"
+          },
+          {
+            "code": "5505414",
+            "display": "VAXNEUVANCE IJSUS FSPR  +1ND"
+          },
+          {
+            "code": "4963675",
+            "display": "FLUCELVAX TETRA FSPR 0,5ML"
+          },
+          {
+            "code": "3539969",
+            "display": "INTANZA 15MCG FSPR"
+          },
+          {
+            "code": "4989947",
+            "display": "TD PUR ERW FSPR 0,5ML O.ND"
+          },
+          {
+            "code": "3920095",
+            "display": "BEXSERO INJ.SUS FSPR"
+          },
+          {
+            "code": "5426873",
+            "display": "MODERNA/SPIKEVAX COV19 10x10"
+          },
+          {
+            "code": "3513450",
+            "display": "CERVARIX FSPR 0,5ML"
+          },
+          {
+            "code": "5506342",
+            "display": "COMIRNATY COV19 INJ30  195x6"
+          },
+          {
+            "code": "4973521",
+            "display": "ROTARIX SUS TUBE 1,5ML"
+          },
+          {
+            "code": "2454461",
+            "display": "RABIPUR PLV LSM 2,5IE/ML"
+          },
+          {
+            "code": "4977720",
+            "display": "ENCEPUR FSPR 0,25ML KIND BN"
+          },
+          {
+            "code": "1309515",
+            "display": "TWINRIX KIND INF FSPR 0,5ML"
+          },
+          {
+            "code": "3932448",
+            "display": "FSME-IMMUN FSPR 0,5ML NAD B"
+          },
+          {
+            "code": "4202031",
+            "display": "FLUENZ TETRA NA-SPRAY"
+          },
+          {
+            "code": "AUSL_000001",
+            "display": "COVID-19-Impfstoff CVnCoV (CureVac)"
+          },
+          {
+            "code": "AUSL_000002",
+            "display": "COVID-19-Impfstoff NVX-CoV2373 (Novavax)",
+            "designation": [
+              {
+                "use": {
+                  "system": "https://termgit.elga.gv.at/CodeSystem-austrian-designation-use",
+                  "code": "hinweise",
+                  "display": "hinweise"
+                },
+                "value": "DEPRECATED"
+              }
+            ]
+          },
+          {
+            "code": "5502433",
+            "display": "GARDASIL 9 FSPR +2KAN"
+          },
+          {
+            "code": "AUSL_000003",
+            "display": "COVID-19-Impfstoff Sputnik-V (Gamaleya)"
+          },
+          {
+            "code": "3932454",
+            "display": "FSME-IMMUN FSPR 0,5ML"
+          },
+          {
+            "code": "AUSL_000004",
+            "display": "COVID-19-Impfstoff Convidecia (CanSino Biologics)"
+          },
+          {
+            "code": "AUSL_000005",
+            "display": "COVID-19-Impfstoff EpiVacCorona (Vektor-Institut)"
+          },
+          {
+            "code": "4467858",
+            "display": "VAXIGRIP TETRA FSPR O.K"
+          },
+          {
+            "code": "AUSL_000006",
+            "display": "COVID-19-Impfstoff BBIBP-CorV (Sinopharm)"
+          },
+          {
+            "code": "5506359",
+            "display": "COMIRNATY COV19 INJ30   10x6"
+          },
+          {
+            "code": "2457324",
+            "display": "BOOSTRIX POLIO FSPR 0,5ML"
+          },
+          {
+            "code": "0514986",
+            "display": "FSME-IMMUN FSPR 0,5ML NAD F"
+          },
+          {
+            "code": "4465799",
+            "display": "RABIPUR PLV+LSM INJ FSPR"
+          },
+          {
+            "code": "AUSL_000007",
+            "display": "COVID-19-Impfstoff Inactivated-SARS-CoV-2-Vero-Cell",
+            "designation": [
+              {
+                "use": {
+                  "system": "https://termgit.elga.gv.at/CodeSystem-austrian-designation-use",
+                  "code": "hinweise",
+                  "display": "hinweise"
+                },
+                "value": "DEPRECATED"
+              }
+            ]
+          },
+          {
+            "code": "AUSL_000008",
+            "display": "COVID-19-Impfstoff CoronaVac (Sinovac Biotech)"
+          },
+          {
+            "code": "AUSL_000009",
+            "display": "COVID-19-Impfstoff Covaxin (Bharat Biotech)"
+          },
+          {
+            "code": "4989539",
+            "display": "COMIRNATY COV19 KONZ30 195x6"
+          },
+          {
+            "code": "3756589",
+            "display": "PREVENAR 13 FSPR 0,5ML+N"
+          },
+          {
+            "code": "2472826",
+            "display": "ZOSTAVAX PLV +LSM IJSUS FSPR"
+          },
+          {
+            "code": "5511774",
+            "display": "PREVENAR 13 FSPR 0,5ML+N"
+          },
+          {
+            "code": "5424472",
+            "display": "PFIZER-BION COV19 KONZ30 1x6"
+          },
+          {
+            "code": "3904699",
+            "display": "VAQTA FSPR INJ.SUS"
+          },
+          {
+            "code": "2420746",
+            "display": "BOOSTRIX INJ FSPR 0,5ML"
+          },
+          {
+            "code": "4963681",
+            "display": "FLUCELVAX TETRA IJSUS FSPR",
+            "designation": [
+              {
+                "use": {
+                  "system": "https://termgit.elga.gv.at/CodeSystem-austrian-designation-use",
+                  "code": "hinweise",
+                  "display": "hinweise"
+                },
+                "value": "DEPRECATED"
+              }
+            ]
+          },
+          {
+            "code": "3925655",
+            "display": "FSME-IMMUN FSPR 0,25ML"
+          },
+          {
+            "code": "4991720",
+            "display": "JANSSEN COV19           10x5"
+          },
+          {
+            "code": "4977714",
+            "display": "ENCEPUR FSPR 0,5ML BN"
+          },
+          {
+            "code": "4209197",
+            "display": "PNEUMOVAX 23 FSPR"
+          },
+          {
+            "code": "1364721",
+            "display": "ENGERIX-B INJ FSPR 20MCG/1ML"
+          },
+          {
+            "code": "3909165",
+            "display": "NIMENRIX PLV+LSM FSPR 0,5ML"
+          },
+          {
+            "code": "AUSL_000010",
+            "display": "COVID-19-Impfstoff Covishield (Serum Institute of India)"
+          },
+          {
+            "code": "4983502",
+            "display": "SHINGRIX PLV+SUSP IJSUS DFL"
+          },
+          {
+            "code": "AUSL_000011",
+            "display": "COVID-19-Impfstoff Covid-19 (recombinant) (Fiocruz)"
+          },
+          {
+            "code": "AUSL_000012",
+            "display": "COVID-19-Impfstoff R-COVI (R-Pharm CJSC)"
+          },
+          {
+            "code": "5502522",
+            "display": "JANSSEN COV19           20x5"
+          },
+          {
+            "code": "AUSL_000013",
+            "display": "COVID-19-Impfstoff CoviVac (Chumakov-Federal-Scientific-Center)"
+          },
+          {
+            "code": "AUSL_000014",
+            "display": "COVID-19-Impfstoff Sputnik-Light (Gamaleya)"
+          },
+          {
+            "code": "AUSL_000015",
+            "display": "COVID-19-Impfstoff Hayat-Vax (Gulf Pharmaceutical Industries)"
+          },
+          {
+            "code": "AUSL_000016",
+            "display": "COVID-19-Impfstoff Abdala (Center for Genetic Engineering and Biotechnology)"
+          },
+          {
+            "code": "AUSL_000017",
+            "display": "COVID-19-Impfstoff WIBP-CorV (Sinopharm - Wuhan Institute of Biological Products)"
+          },
+          {
+            "code": "2465140",
+            "display": "DUKORAL SUSP+BRGRAN 2X1DOSIS"
+          },
+          {
+            "code": "3925649",
+            "display": "FSME-IMMUN FSPR 0,25ML NAD B"
+          },
+          {
+            "code": "AUSL_000018",
+            "display": "COVID-19-Impfstoff MVC COVID-19 vaccine (Medigen Vaccine Biologics Corporation)"
+          },
+          {
+            "code": "5506448",
+            "display": "COMIRNATY COV19 KONZ10 10x10"
+          },
+          {
+            "code": "AUSL_000019",
+            "display": "COVID-19-Impfstoff Covovax (Serum Institute Of India Private Limited)"
+          },
+          {
+            "code": "2454923",
+            "display": "VARIVAX PLV+LSM INJSUSP FSPR"
+          },
+          {
+            "code": "5508341",
+            "display": "APEXXNAR IJSUS FSPR 0,5ML+ND"
+          },
+          {
+            "code": "4477035",
+            "display": "PREVENAR INJ.SUS13 0,5ML+NAD"
+          },
+          {
+            "code": "2469988",
+            "display": "REVAXIS SPR+2 KANUE"
+          },
+          {
+            "code": "2246975",
+            "display": "ENCEPUR FSPR 0,5ML"
+          },
+          {
+            "code": "1079021",
+            "display": "SANDOVAC FSPR 0,5ML"
+          },
+          {
+            "code": "3761739",
+            "display": "INTANZA  9MCG FSPR"
+          },
+          {
+            "code": "3521662",
+            "display": "MENJUGATE PLV +LSM FSPR"
+          },
+          {
+            "code": "4453106",
+            "display": "MENJUGATE INJ FSPR 10MCG"
+          },
+          {
+            "code": "1301057",
+            "display": "HAVRIX FSPR 1440 ERW"
+          },
+          {
+            "code": "AUSL_000020",
+            "display": "COVID-19-Impfstoff Vidprevtyn (Sanofi Pasteur)"
+          },
+          {
+            "code": "4202025",
+            "display": "FLUENZ TETRA NA-SPRAY"
+          },
+          {
+            "code": "3532424",
+            "display": "NEISVAC-C FSPR 2 NADEL 0,5ML"
+          },
+          {
+            "code": "AUSL_000021",
+            "display": "COVID-19-Impfstoff VLA2001 (Valneva France)"
+          },
+          {
+            "code": "AUSL_000022",
+            "display": "COVID-19-Impfstoff EpiVacCorona-N (Vector Institute)"
+          },
+          {
+            "code": "AUSL_000023",
+            "display": "COVID-19-Impfstoff Sputnik-M (Gamaleya Research Institute)"
+          },
+          {
+            "code": "3911995",
+            "display": "OPTAFLU INJ-SUS FSPR"
+          },
+          {
+            "code": "4466942",
+            "display": "TRUMENBA IJSUS FSPR+NAD0,5ML"
+          },
+          {
+            "code": "1290520",
+            "display": "DT-REDUCT MER FSPR 0,5ML"
+          },
+          {
+            "code": "2479314",
+            "display": "INFANRIX HEXA GLASFL."
+          },
+          {
+            "code": "2469994",
+            "display": "TYPHIM VI FSPR 0,5ML +2 KAN."
+          },
+          {
+            "code": "2472803",
+            "display": "ROTATEQ QUETSCHTB 2ML"
+          },
+          {
+            "code": "4475131",
+            "display": "GARDASIL 9 FSPR +2KAN"
+          },
+          {
+            "code": "3904713",
+            "display": "VAQTA K FSPR INJ.SUS"
+          },
+          {
+            "code": "4215720",
+            "display": "VAXIGRIP FSPR O.KANUELE"
+          },
+          {
+            "code": "5426867",
+            "display": "MODERNA/SPIKEVAX COV19  1x10"
+          },
+          {
+            "code": "1349762",
+            "display": "FLUAD FSPR 0,5ML"
+          },
+          {
+            "code": "3537551",
+            "display": "IXIARO FSPR"
+          },
+          {
+            "code": "4990459",
+            "display": "VAXZEVRIA COV19        10x10"
+          },
+          {
+            "code": "3514171",
+            "display": "GARDASIL SPR +2KAN"
+          },
+          {
+            "code": "4209694",
+            "display": "FSME-IMMUN FSPR 0,5ML+S.NAD"
+          },
+          {
+            "code": "4985702",
+            "display": "FLUAD FSPR 0,5ML"
+          },
+          {
+            "code": "3919867",
+            "display": "OPTAFLU INJ-SUS FSPR"
+          },
+          {
+            "code": "4209702",
+            "display": "FSME-IMMUN FSPR 0,25ML+S.NAD"
+          },
+          {
+            "code": "2228368",
+            "display": "TD PUR ERW FSPR 0,5ML"
+          },
+          {
+            "code": "5506945",
+            "display": "VAXELIS IJSUS FSPR 0,5ML"
+          },
+          {
+            "code": "3519599",
+            "display": "HBVAXPRO IJSUS FSP 10MCG 2KN"
+          },
+          {
+            "code": "4224707",
+            "display": "GARDASIL 9 FSPR +2KAN"
+          },
+          {
+            "code": "2467788",
+            "display": "REPEVAX FSPR 0,5ML +KANUELEN"
+          },
+          {
+            "code": "1316018",
+            "display": "VARILRIX PLV+LSM INJSUSP"
+          },
+          {
+            "code": "4990146",
+            "display": "FLUAD TETRA FSPR+ND 0,5ML"
+          },
+          {
+            "code": "0056489",
+            "display": "TETANOL PUR FSPR 0,5ML"
+          },
+          {
+            "code": "1076502",
+            "display": "VAXIGRIP FSPR M.KANUELE"
+          },
+          {
+            "code": "1292200",
+            "display": "ENGERIX-B FSPR 10MCG/0,5ML"
+          },
+          {
+            "code": "2434027",
+            "display": "VIATIM SUS+LSM IJSUS 2KFSPR"
+          },
+          {
+            "code": "2467794",
+            "display": "TETRAVAC FSPR +2KANUELE"
+          },
+          {
+            "code": "3511764",
+            "display": "MMRVAXPRO PLV+LSM FSPR +2K"
+          },
+          {
+            "code": "2442831",
+            "display": "HEPATYRIX IJSUS FSPR"
+          },
+          {
+            "code": "3760993",
+            "display": "ROTARIX SUS FAPPLIK.1,5ML"
+          },
+          {
+            "code": "2249436",
+            "display": "ENCEPUR FSPR 0,5ML"
+          },
+          {
+            "code": "4482993",
+            "display": "INFLUVAC TETRA FSPR 0,5ML"
+          },
+          {
+            "code": "4961340",
+            "display": "VIVOTIF MSR HKPS"
+          },
+          {
+            "code": "3928168",
+            "display": "HEXYON IJSUS FSPR +2 KAN"
+          },
+          {
+            "code": "1325750",
+            "display": "PRIORIX PLV+LSM IMPFDS"
+          }
+        ]
+      }
+    ]
+  },
+  "expansion": {
+    "timestamp": "2022-06-03T10:21:31Z",
+    "contains": [
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "4977140",
+        "display": "ENCEPUR FSPR 0,5ML +ND"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "2472795",
+        "display": "PROQUAD PLV+LSM FSPR +2K"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "1265597",
+        "display": "INFLUVAC FSPR 0,5ML O.KANUEL"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "4966403",
+        "display": "FLUCELVAX TETRA FSPR 0,5ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "2470017",
+        "display": "STAMARIL PLV+LSM DFL+FSPR+2K"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "1350268",
+        "display": "HBVAXPRO IJSUS FLA 40MCG"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "2427180",
+        "display": "FSME-IMMUN FSPR 0,25ML NAD F"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "4990123",
+        "display": "FLUAD TETRA FSPR+ND 0,5ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "2467765",
+        "display": "HBVAXPRO IJSUS FSP  5MCG 2KN"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "3927186",
+        "display": "FLUARIX INJ.SUS FSPR O.NADEL"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "1276939",
+        "display": "ACT-HIB TRSTAMP +LSM"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "3762986",
+        "display": "PRIORIX TETRA PLV DFL FSPR"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "4989918",
+        "display": "EFLUELDA FSPR O.KAN.0,7ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "2427872",
+        "display": "ENCEPUR FSPR 0,25ML KIND"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "4202462",
+        "display": "PNEUMOVAX 23 DFL 0,5ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "4977134",
+        "display": "ENCEPUR FSPR 0,25ML KIND +ND"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "2427197",
+        "display": "FSME-IMMUN FSPR 0,25ML NAD F"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "4985398",
+        "display": "SHINGRIX PLV+SUSP IJSUS DFL"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "1260571",
+        "display": "POLIO SALK MER FSPR 0,5ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "1315496",
+        "display": "HAVRIX FSPR  720 JUNIOR"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "2228374",
+        "display": "TD PUR ERW FSPR 0,5ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "3533837",
+        "display": "SYNFLORIX FSPR 0,5ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "1333991",
+        "display": "TYPHERIX IJLSG 25MCG/0,5ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "0515738",
+        "display": "FSME-IMMUN FSPR 0,5ML NAD F"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "AWEG_000003",
+        "display": "INFLUSPLIT TETRA 1ST"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "1329251",
+        "display": "VIVOTIF KPS"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "AWEG_000002",
+        "display": "QUADRIVALENT INFLUENZA SANOFI 1ST"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "AWEG_000001",
+        "display": "FLUZONE/EFLUELDA 10St"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "1304498",
+        "display": "TWINRIX ERW INJ FSPR 1ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "4205785",
+        "display": "FLUARIX TETRA FSPR +2ND"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "5611903",
+        "display": "NUVAXOVID COV19\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a01x10"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "1258120",
+        "display": "INFLUVAC FSPR 0,5ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "3528434",
+        "display": "FLUVACCINOL INJ-SUS FSPR"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "4467841",
+        "display": "VAXIGRIP TETRA FSPR 0,5ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "3782291",
+        "display": "MENVEO PLV+LSM DFL"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "5505414",
+        "display": "VAXNEUVANCE IJSUS FSPR  +1ND"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "4963675",
+        "display": "FLUCELVAX TETRA FSPR 0,5ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "3539969",
+        "display": "INTANZA 15MCG FSPR"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "4989947",
+        "display": "TD PUR ERW FSPR 0,5ML O.ND"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "3920095",
+        "display": "BEXSERO INJ.SUS FSPR"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "5426873",
+        "display": "MODERNA/SPIKEVAX COV19 10x10"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "3513450",
+        "display": "CERVARIX FSPR 0,5ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "5506342",
+        "display": "COMIRNATY COV19 INJ30  195x6"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "4973521",
+        "display": "ROTARIX SUS TUBE 1,5ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "2454461",
+        "display": "RABIPUR PLV LSM 2,5IE/ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "4977720",
+        "display": "ENCEPUR FSPR 0,25ML KIND BN"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "1309515",
+        "display": "TWINRIX KIND INF FSPR 0,5ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "3932448",
+        "display": "FSME-IMMUN FSPR 0,5ML NAD B"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "4202031",
+        "display": "FLUENZ TETRA NA-SPRAY"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "AUSL_000001",
+        "display": "COVID-19-Impfstoff CVnCoV (CureVac)"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "AUSL_000002",
+        "display": "COVID-19-Impfstoff NVX-CoV2373 (Novavax)",
+        "designation": [
+          {
+            "use": {
+              "system": "https://termgit.elga.gv.at/CodeSystem-austrian-designation-use",
+              "code": "hinweise",
+              "display": "hinweise"
+            },
+            "value": "DEPRECATED"
+          }
+        ]
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "5502433",
+        "display": "GARDASIL 9 FSPR +2KAN"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "AUSL_000003",
+        "display": "COVID-19-Impfstoff Sputnik-V (Gamaleya)"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "3932454",
+        "display": "FSME-IMMUN FSPR 0,5ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "AUSL_000004",
+        "display": "COVID-19-Impfstoff Convidecia (CanSino Biologics)"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "AUSL_000005",
+        "display": "COVID-19-Impfstoff EpiVacCorona (Vektor-Institut)"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "4467858",
+        "display": "VAXIGRIP TETRA FSPR O.K"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "AUSL_000006",
+        "display": "COVID-19-Impfstoff BBIBP-CorV (Sinopharm)"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "5506359",
+        "display": "COMIRNATY COV19 INJ30   10x6"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "2457324",
+        "display": "BOOSTRIX POLIO FSPR 0,5ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "0514986",
+        "display": "FSME-IMMUN FSPR 0,5ML NAD F"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "4465799",
+        "display": "RABIPUR PLV+LSM INJ FSPR"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "AUSL_000007",
+        "display": "COVID-19-Impfstoff Inactivated-SARS-CoV-2-Vero-Cell",
+        "designation": [
+          {
+            "use": {
+              "system": "https://termgit.elga.gv.at/CodeSystem-austrian-designation-use",
+              "code": "hinweise",
+              "display": "hinweise"
+            },
+            "value": "DEPRECATED"
+          }
+        ]
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "AUSL_000008",
+        "display": "COVID-19-Impfstoff CoronaVac (Sinovac Biotech)"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "AUSL_000009",
+        "display": "COVID-19-Impfstoff Covaxin (Bharat Biotech)"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "4989539",
+        "display": "COMIRNATY COV19 KONZ30 195x6"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "3756589",
+        "display": "PREVENAR 13 FSPR 0,5ML+N"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "2472826",
+        "display": "ZOSTAVAX PLV +LSM IJSUS FSPR"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "5511774",
+        "display": "PREVENAR 13 FSPR 0,5ML+N"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "5424472",
+        "display": "PFIZER-BION COV19 KONZ30 1x6"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "3904699",
+        "display": "VAQTA FSPR INJ.SUS"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "2420746",
+        "display": "BOOSTRIX INJ FSPR 0,5ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "4963681",
+        "display": "FLUCELVAX TETRA IJSUS FSPR",
+        "designation": [
+          {
+            "use": {
+              "system": "https://termgit.elga.gv.at/CodeSystem-austrian-designation-use",
+              "code": "hinweise",
+              "display": "hinweise"
+            },
+            "value": "DEPRECATED"
+          }
+        ]
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "3925655",
+        "display": "FSME-IMMUN FSPR 0,25ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "4991720",
+        "display": "JANSSEN COV19           10x5"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "4977714",
+        "display": "ENCEPUR FSPR 0,5ML BN"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "4209197",
+        "display": "PNEUMOVAX 23 FSPR"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "1364721",
+        "display": "ENGERIX-B INJ FSPR 20MCG/1ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "3909165",
+        "display": "NIMENRIX PLV+LSM FSPR 0,5ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "AUSL_000010",
+        "display": "COVID-19-Impfstoff Covishield (Serum Institute of India)"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "4983502",
+        "display": "SHINGRIX PLV+SUSP IJSUS DFL"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "AUSL_000011",
+        "display": "COVID-19-Impfstoff Covid-19 (recombinant) (Fiocruz)"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "AUSL_000012",
+        "display": "COVID-19-Impfstoff R-COVI (R-Pharm CJSC)"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "5502522",
+        "display": "JANSSEN COV19           20x5"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "AUSL_000013",
+        "display": "COVID-19-Impfstoff CoviVac (Chumakov-Federal-Scientific-Center)"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "AUSL_000014",
+        "display": "COVID-19-Impfstoff Sputnik-Light (Gamaleya)"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "AUSL_000015",
+        "display": "COVID-19-Impfstoff Hayat-Vax (Gulf Pharmaceutical Industries)"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "AUSL_000016",
+        "display": "COVID-19-Impfstoff Abdala (Center for Genetic Engineering and Biotechnology)"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "AUSL_000017",
+        "display": "COVID-19-Impfstoff WIBP-CorV (Sinopharm - Wuhan Institute of Biological Products)"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "2465140",
+        "display": "DUKORAL SUSP+BRGRAN 2X1DOSIS"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "3925649",
+        "display": "FSME-IMMUN FSPR 0,25ML NAD B"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "AUSL_000018",
+        "display": "COVID-19-Impfstoff MVC COVID-19 vaccine (Medigen Vaccine Biologics Corporation)"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "5506448",
+        "display": "COMIRNATY COV19 KONZ10 10x10"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "AUSL_000019",
+        "display": "COVID-19-Impfstoff Covovax (Serum Institute Of India Private Limited)"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "2454923",
+        "display": "VARIVAX PLV+LSM INJSUSP FSPR"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "5508341",
+        "display": "APEXXNAR IJSUS FSPR 0,5ML+ND"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "4477035",
+        "display": "PREVENAR INJ.SUS13 0,5ML+NAD"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "2469988",
+        "display": "REVAXIS SPR+2 KANUE"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "2246975",
+        "display": "ENCEPUR FSPR 0,5ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "1079021",
+        "display": "SANDOVAC FSPR 0,5ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "3761739",
+        "display": "INTANZA  9MCG FSPR"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "3521662",
+        "display": "MENJUGATE PLV +LSM FSPR"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "4453106",
+        "display": "MENJUGATE INJ FSPR 10MCG"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "1301057",
+        "display": "HAVRIX FSPR 1440 ERW"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "AUSL_000020",
+        "display": "COVID-19-Impfstoff Vidprevtyn (Sanofi Pasteur)"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "4202025",
+        "display": "FLUENZ TETRA NA-SPRAY"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "3532424",
+        "display": "NEISVAC-C FSPR 2 NADEL 0,5ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "AUSL_000021",
+        "display": "COVID-19-Impfstoff VLA2001 (Valneva France)"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "AUSL_000022",
+        "display": "COVID-19-Impfstoff EpiVacCorona-N (Vector Institute)"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "AUSL_000023",
+        "display": "COVID-19-Impfstoff Sputnik-M (Gamaleya Research Institute)"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "3911995",
+        "display": "OPTAFLU INJ-SUS FSPR"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "4466942",
+        "display": "TRUMENBA IJSUS FSPR+NAD0,5ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "1290520",
+        "display": "DT-REDUCT MER FSPR 0,5ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "2479314",
+        "display": "INFANRIX HEXA GLASFL."
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "2469994",
+        "display": "TYPHIM VI FSPR 0,5ML +2 KAN."
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "2472803",
+        "display": "ROTATEQ QUETSCHTB 2ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "4475131",
+        "display": "GARDASIL 9 FSPR +2KAN"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "3904713",
+        "display": "VAQTA K FSPR INJ.SUS"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "4215720",
+        "display": "VAXIGRIP FSPR O.KANUELE"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "5426867",
+        "display": "MODERNA/SPIKEVAX COV19  1x10"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "1349762",
+        "display": "FLUAD FSPR 0,5ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "3537551",
+        "display": "IXIARO FSPR"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "4990459",
+        "display": "VAXZEVRIA COV19        10x10"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "3514171",
+        "display": "GARDASIL SPR +2KAN"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "4209694",
+        "display": "FSME-IMMUN FSPR 0,5ML+S.NAD"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "4985702",
+        "display": "FLUAD FSPR 0,5ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "3919867",
+        "display": "OPTAFLU INJ-SUS FSPR"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "4209702",
+        "display": "FSME-IMMUN FSPR 0,25ML+S.NAD"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "2228368",
+        "display": "TD PUR ERW FSPR 0,5ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "5506945",
+        "display": "VAXELIS IJSUS FSPR 0,5ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "3519599",
+        "display": "HBVAXPRO IJSUS FSP 10MCG 2KN"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "4224707",
+        "display": "GARDASIL 9 FSPR +2KAN"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "2467788",
+        "display": "REPEVAX FSPR 0,5ML +KANUELEN"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "1316018",
+        "display": "VARILRIX PLV+LSM INJSUSP"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "4990146",
+        "display": "FLUAD TETRA FSPR+ND 0,5ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "0056489",
+        "display": "TETANOL PUR FSPR 0,5ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "1076502",
+        "display": "VAXIGRIP FSPR M.KANUELE"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "1292200",
+        "display": "ENGERIX-B FSPR 10MCG/0,5ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "2434027",
+        "display": "VIATIM SUS+LSM IJSUS 2KFSPR"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "2467794",
+        "display": "TETRAVAC FSPR +2KANUELE"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "3511764",
+        "display": "MMRVAXPRO PLV+LSM FSPR +2K"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "2442831",
+        "display": "HEPATYRIX IJSUS FSPR"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "3760993",
+        "display": "ROTARIX SUS FAPPLIK.1,5ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "2249436",
+        "display": "ENCEPUR FSPR 0,5ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "4482993",
+        "display": "INFLUVAC TETRA FSPR 0,5ML"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "4961340",
+        "display": "VIVOTIF MSR HKPS"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "3928168",
+        "display": "HEXYON IJSUS FSPR +2 KAN"
+      },
+      {
+        "system": "https://termgit.elga.gv.at/CodeSystem-eimpf-impfstoffe",
+        "code": "1325750",
+        "display": "PRIORIX PLV+LSM IMPFDS"
+      }
+    ]
+  }
+}
